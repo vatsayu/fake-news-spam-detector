@@ -8,3 +8,4 @@ langchain-community
 chromadb
 sentence-transformers
 ollama
+groq
