@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+nltk
+langchain
+langchain-community
+chromadb
+sentence-transformers
+ollama
